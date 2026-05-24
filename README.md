@@ -67,3 +67,6 @@ Interactive Reporting
 📌 Conclusion
 
 This Sales Dashboard simplifies complex sales data into meaningful insights, helping businesses track performance and make data-driven decisions efficiently.
+#screenshot
+
+https://github.com/harshit589/sales_dashboard/blob/main/screenshort%20of%20sales%20dashboard.jpeg
